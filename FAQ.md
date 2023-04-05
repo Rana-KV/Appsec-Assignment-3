@@ -1,5 +1,6 @@
 # Frequently Asked Questions
 
+
 ## How do I shut everything down and restart from scratch?
 
 You can use `kubectl delete -f` to remove the resources specified in a YAML file. So for the resources in this assignment:
